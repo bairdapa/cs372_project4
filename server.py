@@ -1,4 +1,7 @@
 # This is the server application for project 4
+# Sources:
+# I did not use any online sources for this project, instead opting to reference
+# my previous work in this class.
 
 import socket
 import sys
